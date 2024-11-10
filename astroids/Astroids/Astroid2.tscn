@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://b50c1me01c4dk"]
+
+[node name="Astroid2" type="CharacterBody2D"]
