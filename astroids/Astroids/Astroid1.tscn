@@ -1,3 +1,5 @@
 [gd_scene format=3 uid="uid://duyngkgerdg8t"]
 
-[node name="Astroids" type="Node2D"]
+[node name="Astroid1" type="CharacterBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
