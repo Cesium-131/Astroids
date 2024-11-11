@@ -1,11 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1731288801
+::res://::1731289728
 Asteroid1.png::CompressedTexture2D::1518214763240718945::1731287929::1731288826::1::::<><>::
 Asteroid 2.png::CompressedTexture2D::2258275462582183064::1731288302::1731288826::1::::<><>::
 Asteroid 3.png::CompressedTexture2D::2051754033194619581::1731288476::1731288826::1::::<><>::
 Asteroid 4.png::CompressedTexture2D::2140794974516731749::1731288620::1731288826::1::::<><>::
 Asteroid 5 (Louisiana).png::CompressedTexture2D::8803722912383870401::1731288732::1731288826::1::::<><>::
 icon.svg::CompressedTexture2D::1562073939899318222::1731207506::1731208968::1::::<><>::
+spaceship (louisiana).png::CompressedTexture2D::2411450954969639082::1731289663::1731289738::1::::<><>::
 spaceship.tscn::PackedScene::5670818152159042769::1731208938::0::1::::<><>::
 ::res://Astroids/::1731286591
 Astroid1.tscn::PackedScene::8613384560313692213::1731211537::0::1::::<><>::
