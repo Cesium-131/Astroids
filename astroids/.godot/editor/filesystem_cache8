@@ -1,11 +1,16 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1731284386
-icon.svg::CompressedTexture2D::1562073939899318222::1731206188::1731284386::1::::<><>::
-spaceship.tscn::PackedScene::5670818152159042769::1731211791::0::1::::<><>::
-::res://Astroids/::1731211811
-Astroid1.tscn::PackedScene::8613384560313692213::1731211811::0::1::::<><>::
-Astroid2.tscn::PackedScene::4543863938942789172::1731211343::0::1::::<><>::
-Astroid3.tscn::PackedScene::431101234618673541::1731211347::0::1::::<><>::
-Astroid4.tscn::PackedScene::3749841215842534142::1731211356::0::1::::<><>::
-Astroid5.tscn::PackedScene::8184099265488260798::1731211365::0::1::::<><>::
-astroids.gd::GDScript::-1::1731211266::0::1::::<>Node2D<>::
+::res://::1731288801
+Asteroid1.png::CompressedTexture2D::1518214763240718945::1731287929::1731288826::1::::<><>::
+Asteroid 2.png::CompressedTexture2D::2258275462582183064::1731288302::1731288826::1::::<><>::
+Asteroid 3.png::CompressedTexture2D::2051754033194619581::1731288476::1731288826::1::::<><>::
+Asteroid 4.png::CompressedTexture2D::2140794974516731749::1731288620::1731288826::1::::<><>::
+Asteroid 5 (Louisiana).png::CompressedTexture2D::8803722912383870401::1731288732::1731288826::1::::<><>::
+icon.svg::CompressedTexture2D::1562073939899318222::1731207506::1731208968::1::::<><>::
+spaceship.tscn::PackedScene::5670818152159042769::1731208938::0::1::::<><>::
+::res://Astroids/::1731286591
+Astroid1.tscn::PackedScene::8613384560313692213::1731211537::0::1::::<><>::
+Astroid2.tscn::PackedScene::4543863938942789172::1731211537::0::1::::<><>::
+Astroid3.tscn::PackedScene::431101234618673541::1731211537::0::1::::<><>::
+Astroid4.tscn::PackedScene::3749841215842534142::1731211537::0::1::::<><>::
+Astroid5.tscn::PackedScene::8184099265488260798::1731211537::0::1::::<><>::
+astroids.gd::GDScript::-1::1731211537::0::1::::<>Node2D<>::
